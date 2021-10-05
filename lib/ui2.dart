@@ -12,8 +12,7 @@ class UI2 extends StatefulWidget {
 class _UI2State extends State<UI2> {
   @override
   Widget build(BuildContext context) {
-    return
-        OrientationBuilder(
+    return OrientationBuilder(
             builder:(context, orientation) =>
             orientation == Orientation.portrait
                 ?  buildPortrait()
