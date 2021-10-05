@@ -1,16 +1,9 @@
 # product_ui
+ 
+## First screen
+![ui1](https://user-images.githubusercontent.com/36932416/135756648-aa007996-ec8e-4774-bc13-30f0af15b0c3.png)
 
-A new Flutter application.
+## Second screen
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ui2](https://user-images.githubusercontent.com/36932416/135756655-52bfb7fb-defd-4ff5-85cb-55cf2201c6a3.png)
+![ui2_landscape](https://user-images.githubusercontent.com/36932416/135756658-026e85c7-4585-4998-b8d6-ac45c65451d5.png)
